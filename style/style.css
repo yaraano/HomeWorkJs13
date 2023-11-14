@@ -1,0 +1,30 @@
+.box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.balloon-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 30px;
+}
+
+.bgRed{
+    background-color: red;
+}
+
+.bgGreen{
+    background-color: yellowgreen;
+}
+img {
+    width: 200px;
+}
+.col-4 {
+    padding: 20px;
+}
+input {
+
+}
